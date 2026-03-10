@@ -12,12 +12,11 @@
 
 ```js
 const gabriel = {
-    pronomes:    "ele/dele",
-    stack:       ["C++", "JavaScript", "Dart/Flutter", "HTML/CSS"],
-    interesses:  ["Sistemas Embarcados", "Computadores DIY", "Pixel Art", "Web Apps"],
+    stack:       ["C", "C++", "Assembly x86", "Python", "JavaScript", "Dart/Flutter", "HTML/CSS"],
+    interesses:  ["Sistemas Embarcados", "Computadores DIY", "Mobile Apps", "Web Apps"],
     estudando:   ["Flutter", "Arquitetura de Computadores"],
     blog:        "https://hellyus7.github.io/",
-    fato_curioso: "Construi um computador de 8 bits que roda Snake"
+    fato_curioso: "Construi um computador de 8 bits que roda Snake. Com UC microprogramada e ISA própria!"
 };
 ```
 
@@ -70,12 +69,6 @@ const gabriel = {
 
 </div>
 
-<div align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BetoneraCromada&layout=donut-vertical&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide_border=false&langs_count=8" />
-
-</div>
-
 ---
 
 ### `> activity_graph`
@@ -99,8 +92,6 @@ const gabriel = {
 </picture>
 
 </div>
-
-> Para ativar a snake animation, adicione o workflow abaixo em `.github/workflows/snake.yml` no repo do perfil.
 
 ---
 
