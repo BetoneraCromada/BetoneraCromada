@@ -65,7 +65,7 @@ const gabriel = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BetoneraCromada&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&hide_border=false&count_private=true&include_all_commits=true" />
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=BetoneraCromada&theme=github-dark-blue&border=30363d&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 
 </div>
