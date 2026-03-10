@@ -43,17 +43,9 @@ const gabriel = {
 
 <div align="center">
 
-<a href="https://github.com/BetoneraCromada/PixelCamWeb">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=BetoneraCromada&repo=PixelCamWeb&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-</a>
+
 <a href="https://github.com/BetoneraCromada/KyberComputerV2">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=BetoneraCromada&repo=KyberComputerV2&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-</a>
-<a href="https://github.com/BetoneraCromada/Hotless">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=BetoneraCromada&repo=Hotless&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-</a>
-<a href="https://github.com/BetoneraCromada/keffa">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=BetoneraCromada&repo=keffa&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+  <img width="400" src="https://github.com/BetoneraCromada/KyberComputerV2/blob/cc178bd099115441432b0c9f7c74836d27d04879/KyberV2.png" />
 </a>
 
 </div>
