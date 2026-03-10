@@ -45,7 +45,7 @@ const gabriel = {
 
 
 <a href="https://github.com/BetoneraCromada/KyberComputerV2">
-  <img width="400" src="https://github.com/BetoneraCromada/KyberComputerV2/blob/cc178bd099115441432b0c9f7c74836d27d04879/KyberV2.png" />
+  <img src="https://github.com/BetoneraCromada/KyberComputerV2/blob/cc178bd099115441432b0c9f7c74836d27d04879/KyberV2.png" />
 </a>
 
 </div>
